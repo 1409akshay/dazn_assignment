@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokemon World</string>
+    <string name="icon">icon</string>
+    <string name="img_detail">Pokemon Details</string>
+    <string name="namestr">Pokemon Name : %1$s</string>
+    <string name="img_resoultion">Resolution : %1$s</string>
+    <string name="detail">Pokemon Details : %1$s</string>
+</resources>

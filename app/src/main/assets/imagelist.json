@@ -1,0 +1,65 @@
+{"msg": "Images fetched successfully.",
+  "count": 10,
+  "img_list": [
+    {
+      "name": "Pickachu",
+      "details": "Pikachu is a yellow, mouse-like creature with electrical abilities. It is a major character in the Pokémon franchise, serving as its mascot and as a major mascot for Nintendo.",
+      "resolution": "512 x 512",
+      "link": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c325.png?resize=360"
+    },
+    {
+      "name": "Charizard",
+      "details": "Charizard as having wings that can carry them close to an altitude of 4,600 feet (1,400 m), flying proudly around the sky and constantly seeking for powerful opponents to battle with.",
+      "resolution": "512 x 512",
+      "link": "https://images.secretlab.co/theme/common/collab_pokemon_catalog_charizard-min.png?resize=360"
+    },
+    {
+      "name": "Evee",
+      "details": "Eevee, the Evolution Pokémon. Eevee is a unique Pokémon that can adapt to its environment by changing its form and abilities when evolving. Eevee, the Evolution Pokémon. Depending on circumstances, Eevee can evolve into many forms.",
+      "resolution": "512 x 512",
+      "link": "https://pokemonletsgo.pokemon.com/assets/img/common/char-eevee.png?resize=360"
+    },
+    {
+      "name": "Snorlax",
+      "details": "It stops eating only to sleep. It doesn't feel full unless it eats nearly 900 pounds a day. Its stomach can digest any kind of food, even if it happens to be moldy or rotten. Terrifyingly strong, this Pokémon is the size of a mountain—and moves about as much as one as well.",
+      "resolution": "1024 x 1024",
+      "link": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png?resize=360"
+    },
+    {
+      "name": "Squirtel",
+      "details": "Squirtle's English name is a portmanteau of the words \"squirt\" and \"turtle.\" Squirtle, known as the Tiny Turtle Pokémon, are turtle Pokémon with large eyes and chubby cheeks, capable of moving either on two feet or on all fours. Their skin is a light blue, and they possess a long, curled tail.",
+      "resolution": "512 x 512",
+      "link": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/08/1456484275-squirtlejpg.png?resize=360:*"
+    },
+    {
+      "name": "Bulbasaur",
+      "details": "n the Pokémon franchise, Bulbasaur are small, squat amphibian and plant Pokémon that move on all four legs, and have blue-green bodies with darker blue-green spots. As a Bulbasaur undergoes evolution into Ivysaur and then later into Venusaur, the bulb on its back blossoms into a large flower.",
+      "resolution": "512 x 512",
+      "link": "https://www.businessinsider.in/thumb/msid-53328136,width-700,height-525/1-Bulbasaur-NOTE-Weve-included-the-descriptions-for-each-Pokmon-from-the-official-Pokdex-Enjoy.jpg?resize=360"
+    },
+    {
+      "name": "Krabby",
+      "details": "Krabby (Japanese: クラブ Crab) is a Water-type Pokémon introduced in Generation I. It evolves into Kingler starting at level 28.",
+      "resolution": "512 x 512",
+      "link": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png?resize=360"
+    },
+    {
+      "name": "Cubone",
+      "details": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger. When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+      "resolution": "1024 x 1024",
+      "link": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png?resize=360"
+    },
+    {
+      "name": "Mweto",
+      "details": "Mewtwo (Japanese: ミュウツー Mewtwo) is a Psychic-type Legendary Pokémon introduced in Generation I.\nWhile it is not known to evolve into or from any other Pokémon, Mewtwo can Mega Evolve into two different forms:\nIt is a member of the Mew duo along with Mew.\nMewtwo is an artificial Pokémon.",
+      "resolution": "512 x 512",
+      "link": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2019/03/1-Mewtwo-300x300.png?resize=360"
+    },
+    {
+      "name": "Cyndaquil",
+      "details": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion. Cyndaquil protects itself by flaring up the flames on its back.",
+      "resolution": "1024 x 1024",
+      "link": "https://legends.pokemon.com/assets/pokemon/pokemon_cyndaquil.png?resize=360"
+    }
+  ]
+}
