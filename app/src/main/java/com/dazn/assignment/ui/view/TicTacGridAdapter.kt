@@ -7,8 +7,12 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.dazn.assignment.R
 
-class TicTacGridAdapter(val ticTacList: ArrayList<ItemViewModel>) :
+class TicTacGridAdapter(
+    private val ticTacList: ArrayList<ItemViewModel>,
+    private val onPlayerClickInterface: OnPlayerClickInterface
+) :
     RecyclerView.Adapter<TicTacGridAdapter.ViewHolder>() {
+
     override fun onCreateViewHolder(
         parent: ViewGroup,
         viewType: Int
@@ -20,15 +24,21 @@ class TicTacGridAdapter(val ticTacList: ArrayList<ItemViewModel>) :
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val item = ticTacList[position]
-        if (item.value == "X" || item.value == "O") {
+        holder.ticTacTV.text = item.value
 
+        holder.ticTacTV.setOnClickListener {
+            if (holder.ticTacTV.text == "-" && SplashScreenActivity.isClickable) {
+                onPlayerClickInterface.playerClick(item, holder)
+            }
         }
     }
+
 
     override fun getItemCount() = ticTacList.size
 
     class ViewHolder(itemview: View) : RecyclerView.ViewHolder(itemview) {
-        val ticTacIV = itemview.findViewById<TextView>(R.id.ticTacItemTV)
+        val ticTacTV: TextView = itemview.findViewById(R.id.ticTacItemTV)
     }
+
 }
 
